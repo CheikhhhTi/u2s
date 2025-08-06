@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7682b3b7.css",
+    "main.js": "/static/js/main.9383899b.js",
+    "static/js/453.5c9adb86.chunk.js": "/static/js/453.5c9adb86.chunk.js",
+    "static/media/campus.png": "/static/media/campus.84b37edfd550afcdc822.png",
+    "static/media/pres.jpg": "/static/media/pres.61c8e0d632d2d5a6324a.jpg",
+    "static/media/LOGO_U2S.jpg": "/static/media/LOGO_U2S.96dddb9514255fcca2d7.jpg",
+    "static/media/Salle1.jpg": "/static/media/Salle1.4e65d22c3d318bad9e52.jpg",
+    "static/media/map.jpg": "/static/media/map.a16c8188933ea5af5fe4.jpg",
+    "index.html": "/index.html",
+    "main.7682b3b7.css.map": "/static/css/main.7682b3b7.css.map",
+    "main.9383899b.js.map": "/static/js/main.9383899b.js.map",
+    "453.5c9adb86.chunk.js.map": "/static/js/453.5c9adb86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7682b3b7.css",
+    "static/js/main.9383899b.js"
+  ]
+}
